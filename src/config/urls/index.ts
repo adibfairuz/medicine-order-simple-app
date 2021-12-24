@@ -1,0 +1,1 @@
+export const api = "https://private-08786a-mymed.apiary-mock.com/v1/medications"

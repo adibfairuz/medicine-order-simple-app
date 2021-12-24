@@ -1,0 +1,1 @@
+export type PageProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>
